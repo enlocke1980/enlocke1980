@@ -29,11 +29,11 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=<ENTER YOUR GITHUB USERNAME>&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<ENTER YOUR GITHUB USERNAME>&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ENLOCKE1980&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENLOCKE1980&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=<ENTER YOUR GITHUB USERNAME>%2F<ENTER YOUR GITHUB USERNAME>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<ENTER YOUR GITHUB USERNAME>%2F<ENTER YOUR GITHUB USERNAME>)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=ENLOCKE1980%2FENLOCKE1980&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=ENLOCKE1980%2FENLOCKE1980)
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
