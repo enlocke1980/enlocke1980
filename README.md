@@ -4,7 +4,7 @@
 
 ### Greetings 👋
 
-A little about myself, I have spent many years as licensed as a real estate agent in the local market of Coastal Virginia.  I am so excited to may the transition into the tech industry as a DevOps Engineer.  This has been an awesome journey into the tech world as have become more acclimated with the varous skills and certifications this field has to offer.  From Linux to cloud computing, Terraform, Python, Apache and the various AWS platforms, I am looking forward to sharing my talents, experiences and projects!
+A little about myself, I have spent many years as licensed as a real estate agent in the local market of Coastal Virginia.  However, I am so excited to may the transition into the tech industry as a DevOps Engineer.  This has been an awesome journey into the tech world as have become more acclimated with the varous skills and certifications this field has to offer.  From Linux to cloud computing, Terraform, Python, Apache and the various AWS platforms, I am looking forward to sharing my talents, experiences and projects!
 
 Find out more about me & feel free to connect with me here:
 
